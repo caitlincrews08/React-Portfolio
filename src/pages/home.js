@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 
 function Home() {
   return (
-    <div >
+    <div className="bkg">
         <Container fluid>
           <h1>Hey!</h1>
           <p>
