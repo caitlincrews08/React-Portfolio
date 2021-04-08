@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import './App.css';
 
 
 import NavComponent from "./components/Navbar/navbar";
@@ -16,7 +16,7 @@ import Portfolio from "./pages/portfolio";
 function App() {
   return (
     <Router>
-      <div>
+      <div className="bkg">
         <NavComponent />
         <Switch>
           <Route exact path = {["/", "/home"]} component={Home}/>
