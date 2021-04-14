@@ -13,7 +13,6 @@ function NavComponent() {
                     <Nav className="mr-auto">
                         <Nav.Link href="about">About Me</Nav.Link>
                         <Nav.Link href="portfolio">Portfolio</Nav.Link>
-                        <Nav.Link href="resume">Resume</Nav.Link>
                         <Nav.Link href="contact">Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
