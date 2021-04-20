@@ -6,6 +6,7 @@ function Home() {
     <Jumbotron className="home text-center">
       <div className="center">
       <h1>Hi, I'm Caitlin.</h1>
+      <br></br>
       <h5>
         I'm a full-stack web developer based in Orlando, Florida.
       </h5>
