@@ -100,6 +100,8 @@ function Portfolio() {
           </Card.Footer>
         </Card>
       </CardDeck>
+      <br></br>
+      <br></br>
     </div>
   )
 }
