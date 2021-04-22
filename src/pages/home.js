@@ -12,7 +12,7 @@ function Home() {
       </h5>
       <p className="bold">HTML/CSS | JavaScript | Bootstrap | React | NodeJS | Express | MySQL | MongoDB</p>
       <p>
-        <Button variant="primary" href="about">Learn more</Button>
+        <Button variant="primary" href="#about">Learn more</Button>
       </p>
       </div>
     </Jumbotron>
